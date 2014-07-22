@@ -1,0 +1,151 @@
+
+// MASTER STYLES
+
+@import "skeleton";
+
+* {
+	margin: 0px;
+	padding: 0px;
+	color: white; 
+	font-family: 'Merriweather', serif;
+	}
+
+body {
+	background: #5d87bb;
+	
+/* IE10 Consumer Preview */ 
+background-image: -ms-radial-gradient(left top, ellipse farthest-corner, #FFFFFF -70%, #2681D1 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-radial-gradient(left top, ellipse farthest-corner, #FFFFFF -70%, #2681D1 100%);
+
+/* Opera */ 
+background-image: -o-radial-gradient(left top, ellipse farthest-corner, #FFFFFF -70%, #2681D1 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(radial, left top, 0, left top, 994, color-stop(-.7, #FFFFFF), color-stop(1, #2681D1));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-radial-gradient(left top, ellipse farthest-corner, #FFFFFF -70%, #2681D1 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: radial-gradient(ellipse farthest-corner at left top, #FFFFFF -70%, #2681D1 100%);
+	
+	}
+
+
+a {
+	text-decoration: none;}	
+
+
+
+// ADDITIONAL STYLES
+
+::selection {
+	background: #1775fa; /* Safari */}
+	
+::-moz-selection {
+	background: #1775fa; /* Firefox */}
+
+.divider {
+	border-top: 1px solid white;
+	width: 26%;
+	margin: 0 auto;
+	margin-top: 50px;}	
+		
+/* main section */
+
+#main {
+	margin-top: 70px;
+	#book-img {
+	width: 90%;
+	}
+	.main-text {
+		padding-left: 20px;
+	}
+	h1 {
+		font-size: 32px;
+		margin-top: 130px;
+		font-weight: 700;
+	}
+	h3 {
+		margin-top: 24px;
+		line-height: 34px;
+		font-weight: 300;
+		font-size: 24px;
+	}
+	p {
+		margin-top: 30px;
+		font-weight: 100;
+		
+	}
+	
+	#amazon-img {
+		width: 60%;
+		margin-top: 24px;
+	}	
+
+} //end main
+
+/* testimonials */
+
+#testimonials {
+	margin-top: 50px;
+	font-size: 13px;
+	font-weight: 100;
+	line-height: 20px;
+	.quote {
+		margin-top: 30px;
+	}
+	h1 {
+		margin-bottom: 20px;
+	}
+	
+} //end testimonials
+
+#cta {
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 60px;
+	text-align: center;
+	img {
+		width: 240px;
+		display: inline-block;
+		vertical-align: middle;
+		margin-right: 30px;
+	}
+	
+}
+
+/* author */
+
+#author {
+	margin-top: 50px;
+	padding-bottom: 70px;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: 100;
+	h1 {
+		margin-bottom: 14px;
+	}
+	p {
+		margin-left: 10px;
+	}
+	img {
+		width: 100%;
+		border-radius: 10px;
+		max-width: 180px;	
+	}
+	
+	
+} //end author
+
+footer {
+	font-size: 11px;
+	font-weight: 300;
+	text-align: center;
+	padding-bottom: 80px;
+}
+
+
+
