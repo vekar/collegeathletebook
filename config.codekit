@@ -79,6 +79,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/marten-headshot.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117219,
+		"inputAbbreviatedPath": "\/img\/marten-headshot.png",
+		"outputAbbreviatedPath": "\/img\/marten-headshot.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/Marten.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
