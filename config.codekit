@@ -34,15 +34,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/CNAME.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/CNAME.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/global.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -89,72 +80,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/img\/Marten.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.87172e+06,
-		"inputAbbreviatedPath": "\/img\/Marten.JPG",
-		"outputAbbreviatedPath": "\/img\/Marten.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/patterns\/brushed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4106,
-		"inputAbbreviatedPath": "\/img\/patterns\/brushed.png",
-		"outputAbbreviatedPath": "\/img\/patterns\/brushed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/patterns\/pw_maze_white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 600,
-		"inputAbbreviatedPath": "\/img\/patterns\/pw_maze_white.png",
-		"outputAbbreviatedPath": "\/img\/patterns\/pw_maze_white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/patterns\/square_bg.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2217,
-		"inputAbbreviatedPath": "\/img\/patterns\/square_bg.png",
-		"outputAbbreviatedPath": "\/img\/patterns\/square_bg.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/patterns\/squared_metal.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16559,
-		"inputAbbreviatedPath": "\/img\/patterns\/squared_metal.png",
-		"outputAbbreviatedPath": "\/img\/patterns\/squared_metal.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/whitebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6.05035e+06,
-		"inputAbbreviatedPath": "\/img\/whitebook.png",
-		"outputAbbreviatedPath": "\/img\/whitebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
