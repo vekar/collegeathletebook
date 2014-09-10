@@ -445,6 +445,11 @@ a {
   #main #amazon-img {
     width: 60%;
     margin-top: 24px; }
+  #main .social {
+    margin-top: 30px; }
+    #main .social .twitter-follow-button {
+      vertical-align: sub;
+      margin-left: 20px; }
 
 /* testimonials */
 #testimonials {
@@ -478,10 +483,13 @@ a {
   margin: 0 auto;
   margin-top: 20px;
   text-align: center; }
+  #cta h3 {
+    display: inline; }
   #cta img {
     width: 240px;
-    display: inline-block;
+    display: inline;
     vertical-align: middle;
+    margin-top: 12px;
     margin-right: 30px; }
 
 /* author */
